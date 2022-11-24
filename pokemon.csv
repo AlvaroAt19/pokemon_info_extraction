@@ -1,0 +1,11 @@
+name,weight,type1,type2,hp,attack,defense,special_attack,special_defense,speed
+bulbasaur,69,grass,poison,45,45,49,49,65,65
+ivysaur,130,grass,poison,60,60,62,63,80,80
+venusaur,1000,grass,poison,80,80,82,83,100,100
+charmander,85,fire,None,39,39,52,43,60,50
+charmeleon,190,fire,None,58,58,64,58,80,65
+charizard,905,fire,flying,78,78,84,78,109,85
+squirtle,90,water,None,44,44,48,65,50,64
+wartortle,225,water,None,59,59,63,80,65,80
+blastoise,855,water,None,79,79,83,100,85,105
+caterpie,29,bug,None,45,45,30,35,20,20
